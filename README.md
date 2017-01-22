@@ -1,8 +1,6 @@
 # Algorithms
 
 Repository of basic algorithms that I've studied and written code for. 
-Most were part of the course "Algorithms I" offered via Coursera by Stanford University. 
-Some are utitilies that come in handy for other explorations and inquiries.
 
 Files:
 - Primes.py (01-21-2017): Implementation of the Erato Sieve.
