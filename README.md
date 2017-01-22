@@ -16,6 +16,7 @@ Possible Updates:
 Partition function, which is supposed to be a helper function. Ideally, the recursive portion would be shifted onto the 
 QuickSort function
 (2) Randomized pivots with an appropriate RNG to optimize the algorithm.
+
 -Djikstra.py (01-21-2017): Implementation of Djikstra's algorithm for finding the shortest path between two nodes in a graph.
 Note that this implementation makes use of a heap, but likely not in the most efficient way. 
 Possible Updates:
